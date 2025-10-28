@@ -29,6 +29,6 @@ def main():
     print(f'Multiplicar {multi(x,y)}')
     print(f'Dividir {divi(x,y)}')
     print(f'Potencia {potencia(x,y)}')
-    
+    print('nueva linea con repositorio con pull')
 if __name__ == '__main__':
     main()
